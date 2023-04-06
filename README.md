@@ -39,6 +39,6 @@ Here are some ideas to get you started:
 Berikut ini adalah beberapa statistik mengenai kontribusi saya di GitHub:
 
 <p>
-  <span>![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=Rahidoct&show_icons=true&theme=radical)</span>
-  <span>[![Bahasa Pemrograman yang Saya Kuasai](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rahidoct&layout=compact&langs_count=8&theme=algolia)](https://github.com/Rahidoct/)</span>
+  <a>![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=Rahidoct&show_icons=true&theme=radical)</a>
+  <a>[![Bahasa Pemrograman yang Saya Kuasai](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rahidoct&layout=compact&langs_count=8&theme=algolia)](https://github.com/Rahidoct/)</a>
 </p>
