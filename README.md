@@ -17,9 +17,9 @@
 Saat ini, saya bekerja di * [UPTD PUSKESMAS BUNDER](https://puskesmasbunder.com) sebagai * [DRIVER AMBULANCE].
 
 ## Pendidikan
-- * [STMIK IKMI CIREBON](https://ikmi.ac.id) || * [TEKNIK INFORMATIKA].
+* [STMIK IKMI CIREBON](https://ikmi.ac.id) || * [TEKNIK INFORMATIKA].
   #### Semester 7
-- * [STKN 1 JAMBLANG](https://web.facebook.com/jamstbond73/?locale=id_ID&_rdc=1&_rdr) || * [TEKNIK GAMBAR BANGUNAN].
+* [STKN 1 JAMBLANG](https://web.facebook.com/jamstbond73/?locale=id_ID&_rdc=1&_rdr) || * [TEKNIK GAMBAR BANGUNAN].
   #### Lulusan 2015 
 <!--
 **Rahidoct/Rahidoct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 ## Statistik
 Berikut ini adalah beberapa statistik mengenai kontribusi saya di GitHub:
 
-![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=Rahidoct&show_icons=true&theme=radical)
-
-[![Bahasa Pemrograman yang Saya Kuasai](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rahidoct&layout=compact&langs_count=8&theme=algolia)](https://github.com/Rahidoct/)
+<p>
+  <span>![Statistik GitHub Saya](https://github-readme-stats.vercel.app/api?username=Rahidoct&show_icons=true&theme=radical)</span>
+  <span>[![Bahasa Pemrograman yang Saya Kuasai](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Rahidoct&layout=compact&langs_count=8&theme=algolia)](https://github.com/Rahidoct/)</span>
+</p>
