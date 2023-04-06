@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋 i'm Rahmat Hidayat
+
+
+## Pekerjaan
+Saat ini, saya bekerja di [UPTD PUSKESMAS BUNDER] sebagai [DRIVER AMBULANCE]. Saya ini juga saya menjalani kuliah di [STMIK IKMI CIREBON] dengan prodi [TEKNIK INFORMATIKA].
 
 <!--
 **Rahidoct/Rahidoct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
