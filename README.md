@@ -1,4 +1,4 @@
-# Hi there 👋 i'm Rahmat Hidayat
+# Hi there 👋 i'm [Rahmat Hidayat](https://rahidoct.github.io/my_portofolio/)
 
 ## I'm Learning
 
