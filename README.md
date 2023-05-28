@@ -34,24 +34,14 @@ Berikut ini adalah beberapa statistik mengenai kontribusi saya di GitHub:
 </a>
 </p>
 
-<a href="https://www.github.com/rahidoct" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/rahidoct?logo=github&style=for-the-badge&color=3382ed&labelColor=1e3a8a" /></a>
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/rahidoct" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/rahidoct"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=rahidoct&stroke=ffffff&background=1e3a8a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>### Support Me<a
-                  href="https://www.buymeacoffee.com/rahidoct"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="http://www.github.com/rahidoct"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahidoct&stroke=ffffff&background=1e3a8a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Connect with me:
 
 <p align="left"> 
 <a href="https://www.github.com/Rahidoct" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/rahidoct@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rahmat-hidayat-21028223a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rahmat-hidayat-21028223a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nb
 <a href="https://www.twitter.com/RahidBack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;
 </p>
 
