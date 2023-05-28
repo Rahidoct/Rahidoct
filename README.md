@@ -41,7 +41,7 @@ Berikut ini adalah beberapa statistik mengenai kontribusi saya di GitHub:
 <p align="left"> 
 <a href="https://www.github.com/Rahidoct" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/rahidoct@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rahmat-hidayat-21028223a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nb
+<a href="https://www.linkedin.com/in/rahmat-hidayat-21028223a/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;&nbsp;
 <a href="https://www.twitter.com/RahidBack" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;&nbsp;
 </p>
 
