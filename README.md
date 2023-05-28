@@ -34,7 +34,7 @@ Berikut ini adalah beberapa statistik mengenai kontribusi saya di GitHub:
 </a>
 </p>
 
-<a href="http://www.github.com/rahidoct"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahidoct&stroke=ffffff&background=1e3a8a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/rahidoct"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahidoct&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ### Connect with me:
 
