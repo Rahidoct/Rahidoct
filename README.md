@@ -20,7 +20,7 @@ Saat ini, saya bekerja di [UPTD PUSKESMAS BUNDER](https://puskesmasbunder.com) s
 ## Pendidikan
 * [STMIK IKMI CIREBON](https://ikmi.ac.id) || S1 - TEKNIK INFORMATIKA.
   #### Lulusan 2024
-* [STKN 1 JAMBLANG](https://web.facebook.com/jamstbond73/?locale=id_ID&_rdc=1&_rdr) || TEKNIK GAMBAR BANGUNAN.
+* [SMKN 1 JAMBLANG](https://web.facebook.com/jamstbond73/?locale=id_ID&_rdc=1&_rdr) || TEKNIK GAMBAR BANGUNAN.
   #### Lulusan 2015 
 
 ## Statistik
